@@ -1,0 +1,48 @@
+body{
+    padding:0px 0px;
+}
+#headd{
+    height: 1.5em;
+    width:100%;
+    color:white;
+    background-color: black;
+}
+#InputField{
+    text-align:start;
+    margin-left: 550px;margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 100px;
+    margin-right: 20px;
+    border-radius: 3px;
+    border:1px solid rgb(155, 155, 161);
+}
+#tt{
+    margin-left: 500px;
+}
+#inputbut{
+    color:white;
+    background-color: rgb(40, 40, 190);
+    border:1px solid rgb(40, 40, 190);
+    border-radius: 3px;
+    
+}
+#mycontainer{
+    margin-left: 460px;}
+
+#ret > li{
+    padding-top: 5px;
+    height: 30px;
+    overflow: hidden;
+    width: 400px;
+    border:1px solid rgb(135, 135, 138);
+    border-radius: 2px;
+    
+}
+.important{
+    text-decoration: line-through;
+}.book{
+    float: right;
+    margin-right: 20px;
+    width: 25px;
+    height: 25px;
+}
